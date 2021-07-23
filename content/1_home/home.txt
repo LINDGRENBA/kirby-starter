@@ -1,0 +1,3 @@
+Title: Home
+----
+Text: Welcome to my site, where you can view my portfolio, hop over to the blog to read some of my articles or check out the contact page if you'd like to get in touch.

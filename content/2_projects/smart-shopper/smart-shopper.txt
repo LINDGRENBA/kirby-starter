@@ -1,0 +1,24 @@
+Title: Building A Smart Shopper Application With Collab Lab
+
+----
+
+Summary: An account of my experience as a participant of The Collab Lab Winter 2021 cohort
+
+----
+
+Text: This might not work unless I have a plugin or something
+
+[
+    {
+        "attrs": [],
+        "content": "<strong>When I submitted my application for The Collab Lab</strong>, I wasn't quite sure what to expect",
+        "id": "",
+        "type": "h2" 
+    }
+    {
+        "attrs": [],
+        "content": "<strong>When I submitted my application for The Collab Lab</strong>, I wasn't quite sure what to expect",
+        "id": "",
+        "type": "paragraph" 
+    }
+]
